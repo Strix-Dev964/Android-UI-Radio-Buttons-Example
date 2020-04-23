@@ -1,0 +1,11 @@
+<!--
+Created by Strix - http://strixdev.co.uk
+-->
+
+<resources>
+    <string name="app_name">Strix - Radio Button Example</string>
+    <string name="radio_one">One</string>
+    <string name="radio_two">Two</string>
+    <string name="radio_three">Three</string>
+    <string name="btn_check">Check Radio State</string>
+</resources>

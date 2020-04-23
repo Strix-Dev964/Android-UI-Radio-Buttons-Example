@@ -1,0 +1,2 @@
+rootProject.name='Strix - Radio Button Example'
+include ':app'
